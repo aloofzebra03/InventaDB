@@ -55,7 +55,7 @@ CompanyProductsJDBC/                 # Project root
 │   └── alter.sql                    # Add foreign keys & constraints fileciteturn4file2
 ├── src/                             # Java source
 │   └── imt2022036_company_products_db.java   # Main application
-├── class/                           # Compiled `.class` files
+├── bin/                           # Compiled `.class` files
 │   └── *.class
 └── README.md                        # Project documentation
 ```
